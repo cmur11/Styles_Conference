@@ -126,3 +126,17 @@ Buttons
 .hero {
     padding: 22px 80px 66px 80px;
   }
+
+  /* 
+ ========================================
+Primary Footer
+ ========================================
+*/
+
+.primary-footer {
+    padding-bottom: 44px;
+    padding-top: 44px;
+}
+.primary-footer small{
+    float: left;
+}
